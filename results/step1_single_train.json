@@ -1,0 +1,11 @@
+{
+  "mode": "single_train",
+  "batch_size": 192,
+  "lr": 0.02,
+  "epochs": 3,
+  "steps": 108,
+  "n_params": 3288324,
+  "M_mib": 12.544,
+  "acc": 0.279,
+  "auc": 0.66251
+}

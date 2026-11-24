@@ -1,0 +1,10 @@
+{
+  "mode": "ddp_bench",
+  "no_sync": true,
+  "world_size": 1,
+  "b": 192,
+  "B": 192,
+  "t_step_ms": 228.064,
+  "t_total_50_s": 11.9553,
+  "X": 802.993
+}

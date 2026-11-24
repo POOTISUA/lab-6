@@ -1,0 +1,10 @@
+{
+  "mode": "ddp_bench",
+  "no_sync": false,
+  "world_size": 1,
+  "b": 192,
+  "B": 192,
+  "t_step_ms": 277.139,
+  "t_total_50_s": 14.9761,
+  "X": 641.019
+}

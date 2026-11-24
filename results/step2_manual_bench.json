@@ -1,0 +1,11 @@
+{
+  "mode": "manual_bench",
+  "world_size": 4,
+  "b": 48,
+  "B": 192,
+  "t_step_ms": 216.068,
+  "t_sync_ms": 71.597,
+  "comm_share": 0.3314,
+  "t_total_50_s": 11.4,
+  "X": 842.106
+}

@@ -1,0 +1,7 @@
+{
+  "mode": "single_bench",
+  "batch_size": 192,
+  "t_step_ms": 259.974,
+  "t_total_50_s": 13.6917,
+  "X": 701.157
+}
